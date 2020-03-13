@@ -1,5 +1,5 @@
 ---
-title: AconCavy
+title: AconCavy's Portfolio
 ---
 
 # Portfolio
@@ -18,8 +18,6 @@ Please contact me via a direct message on Twitter if you are interested.
 
 ## Contents
 
-- [About](#about)
-- [Contents](#contents)
 - [Education](#education)
 - [Qualifications](#qualifications)
 - [Skills](#skills)
