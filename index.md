@@ -1,3 +1,7 @@
+---
+title: AconCavy
+---
+
 # Portfolio
 
 ## About
@@ -102,6 +106,7 @@ The game that cooks coffee and steaks using LeapMotion, which was developed as a
 ### Maze (2016)
 
 The game is the first work to be made by Unity that navigates a ball to the goal using an acceleration sensor and the maze is auto-generated.
+
 [Maze movie](https://drive.google.com/open?id=1HH_vSyQ0sm7LaLvFQvblk19Id4YGv6DP)
 
 ## Publications
