@@ -9,7 +9,11 @@ title: AconCavy's Portfolio
 - Name: Takuro Magaki
 - Handle: AconCavy
 - Twitter: [@AconCavy](https://twitter.com/AconCavy)
+- GitHub: [AconCavy](https://github.com/AconCavy)
+- [![AconCavy](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FAconCavy)](https://atcoder.jp/users/AconCavy)
+- Blog: [acon.log](https://aconcavy.github.io/Blog/)
 - Interest: VR/AR/xR, Game Development
+- Language: Japanese, English
 
 I am good at developing games and simulators mainly using C# and Unity as an IT engineer.
 And, as a researcher, I had been researched that forecasting cybersickness (aka Virtual Reality sickness) using physiological data in Virtual Reality in Future University Hakodate, Japan.
@@ -36,10 +40,32 @@ Please contact me via a direct message on Twitter if you are interested.
 
 ## Skills
 
-- Programming Language: C#, Python 3.x, C++, Java
-- FrameWork: Unity, Xamarin.Forms
+- Programming Languages: C#, Python 3.x
+- Frameworkss: Unity, Xamarin.Forms, ASP .NET Core WebApi
+- Others: git, GitHub Action
 
 ## Works
+
+### [CompetitiveProgrammingTemplateCSharp](https://github.com/AconCavy/CompetitiveProgrammingTemplateCSharp) (2020)
+
+The template is dotnet cli template for competitive programming using C#. The template will provide a tasks and tests projects, a solver class item, and a test class item.
+It is blogged [here](https://aconcavy.github.io/Blog/posts/20201129dotnettemplate). (Japanese)
+
+### [SandboxCSharp](https://github.com/AconCavy/SandboxCSharp) (2020-)
+
+The project is testing and benchmarking an experimental C# functions as a sandbox.
+
+### [SnippetBuilderCSharp](https://github.com/AconCavy/SnippetBuilderCSharp) (2020)
+
+The application is building editor's snippets from C# files for competitive programming library etc.
+
+### [AtCoderLibraryCSharp](https://github.com/AconCavy/AtCoderLibraryCSharp) (2020)
+
+The library is an UNOFFICIAL AtCoderLibrary for C#. The library is based on ac-library and written by C#.
+
+### [E4Analyzer](https://github.com/AconCavy/E4Analyzer) (2020)
+
+The application is statistical processing csv files obtained from [Empatica E4](https://www.empatica.com/research/e4/). 
 
 ### [Forty Five](https://globalgamejam.org/2020/games/ffxlv-1) (2020)
 
@@ -49,7 +75,7 @@ The game named Forty Five that attacks from the 45 degrees to repair things was 
 
 ### [Cybatica](https://github.com/AconCavy/Cybatica) (2019)
 
-The mobile application named Cybatica was developed using Xamarin.Forms in the master's research. Cybatica connects with the [Empatica E4](https://www.empatica.com/en-gb/research/e4/) to forecast and monitor cybersickness using physiological data (HRV and EDA) in the realtime.
+The mobile application named Cybatica was developed using Xamarin.Forms in the master's research. Cybatica connects with the [Empatica E4](https://www.empatica.com/research/e4/) to forecast and monitor cybersickness using physiological data (HRV and EDA) in the realtime.
 
 ![Cybatica](assets/cybatica_ss.png)
 
@@ -111,17 +137,19 @@ The game is the first work to be made by Unity that navigates a ball to the goal
 
 ### Authored
 
+1. Magaki, T. & Vallance, M. (2020). Seeking Accessible Physiological Metrics to Detect Cybersickness in VR, International Journal of Virtual and Augmented Reality (IJVAR) Vol. 4, No. 1, pp. 1-18. doi: 10.4018/IJVAR.2020010101.
 1. Magaki, T & Vallance, M. (2019). Real-time Monitoring Method for Cybersickness using Physiological Signals. In Proceedings of VRST '19: 25th ACM Symposium on Virtual Reality Software and Technology (VRST '19), November 12-15, 2019, Parramatta, NSW, Australia. ACM, New York, NY, USA, 2 pages. [https://doi.org/10.1145/3359996.3364700](https://doi.org/10.1145/3359996.3364700)
-2. Magaki, T. & Vallance, M. (2019). Real-time Forecasting of Cybersickness. The 24th Annual Conference of the Virtual Reality Society of Japan. The University of Tokyo, 11 - 13 Sept., 2019. Paper 4C-02 available at [http://conference.vrsj.org/ac2019/program/index-e.html](http://conference.vrsj.org/ac2019/program/index-e.html)
-3. Magaki, T. & Vallance, M. (2019). Developing an accessible evaluation method of VR cybersickness. Conference on Virtual Reality and 3D User Interfaces, IEEE VR 2019 Posters, March 23-27, Osaka, Japan. Available online.
-4. Magaki, T. & Vallance, M. (2018). Measuring Reduction Methods for VR Sickness in Virtual Environments. International Journal of Virtual and Personal Learning Environments (IJVPLE), Vol. 7 (2). pp. 27-43. doi: 10.4018/IJVPLE.2017070103 Available online.
+1. Magaki, T. & Vallance, M. (2019). Real-time Forecasting of Cybersickness. The 24th Annual Conference of the Virtual Reality Society of Japan. The University of Tokyo, 11 - 13 Sept., 2019. Paper 4C-02 available at [http://conference.vrsj.org/ac2019/program/index-e.html](http://conference.vrsj.org/ac2019/program/index-e.html)
+1. Magaki, T. & Vallance, M. (2019). Developing an accessible evaluation method of VR cybersickness. Conference on Virtual Reality and 3D User Interfaces, IEEE VR 2019 Posters, March 23-27, Osaka, Japan. Available online.
+1. Magaki, T. & Vallance, M. (2018). Measuring Reduction Methods for VR Sickness in Virtual Environments. International Journal of Virtual and Personal Learning Environments (IJVPLE), Vol. 7 (2). pp. 27-43. doi: 10.4018/IJVPLE.2017070103 Available online.
 
 ### Co-Authored
 
+1. Vallance, M., Magaki, T. & Kurashige, Y. (2020). Determining the Efficacy of Virtual Reality through Experientiality and Biometrics, 6th International Conference of the Immersive Learning Research Network (iLRN 2020) Online, June 21-25, 2020. pp. 344 - 347. ISBN 978-1-7348995.
 1. Vallance, M. Magaki, T. Kurashige, Y & Johnson, L. (2019). SolarVR for inter-cognitive and intra-cognitive communication. In Proceedings of VRST '19: 25th ACM Symposium on Virtual Reality Software and Technology (VRST '19), November 12-15, 2019, Parramatta, NSW, Australia. ACM, New York, NY, USA, 2 pages. [https://doi.org/10.1145/3359996.3364702](https://doi.org/10.1145/3359996.3364702)
-2. Vallance, M., Kurashige, Y. & Magaki, T. (2019). Creative learning in VR: an antidisciplinary approach. Conference on Virtual Reality and 3D User Interfaces, IEEE VR 2019 Videos, March 23-27, Osaka, Japan. Available online.
-3. Vallance, M., Kurashige, Y. & Magaki, T. (2018). Fukushima Nuclear Plant as a Synthetic Learning Environment. SIGGRAPH Asia, SA '18 Posters, December 04-07, 2018, Tokyo, Japan ACM 978-1-4503-6063-0/18/12. doi: 10.1145/3283289.3283292. Available online.
-4. Vallance, M., Magaki, T. & Sasaki, T. (2018). Inter-cognitive communication for immersive virtual education: four robot solutions. In Proceedings of EdMedia: World Conference on Educational Media and Technology (pp. 1591-1597). Amsterdam, Netherlands: Association for the Advancement of Computing in Education (AACE). Retrieved July 12, 2018 from [https://academicexperts.org/conf/edmedia/2018/papers/53178/](https://academicexperts.org/conf/edmedia/2018/papers/53178/)
-5. Vallance, M., Kurashige, Y., Sasaki, T. & Magaki, T. (2017). Development of a Synthetic Learning Environment in the Antidisciplinary Space. In Proceedings of The 11th European Conference on Game-Based Learning ECGBL 2017, The FH JOANNEUM University of Applied Science, Graz, Austria, 4 - 6 October, 2017. pp. 705 - 714.  ISBN: 978-1-911218-57-9
-6. Sasaki, T., Vallance, M., Magaki, T., Naito, N., Sumi, K., Bagenda Kasujja, D. and Tsubakimoto, M. (2017).  Japanese History Explorer With Nozomi-chan for Elementary School Children. In Proceedings of The 11th European Conference on Game-Based Learning ECGBL 2017, The FH JOANNEUM University of Applied Science, Graz, Austria, 4 - 6 October, 2017. pp. 562 - 570. ISBN: 978-1-911218-57-9
-7. Vallance, M., Kurashige, Y., Sasaki, T. & Magaki, T. (2017). Who needs experts? Students designing a Synthetic Learning Environment of the Fukushima nuclear power plant. In J. Johnston (Ed.), Proceedings of EdMedia 2017 (pp. 1223-1228). Washington, DC: Association for the Advancement of Computing in Education (AACE). Retrieved August 16, 2017 from [https://www.learntechlib.org/p/178440/](https://www.learntechlib.org/p/178440/)
+1. Vallance, M., Kurashige, Y. & Magaki, T. (2019). Creative learning in VR: an antidisciplinary approach. Conference on Virtual Reality and 3D User Interfaces, IEEE VR 2019 Videos, March 23-27, Osaka, Japan. Available online.
+1. Vallance, M., Kurashige, Y. & Magaki, T. (2018). Fukushima Nuclear Plant as a Synthetic Learning Environment. SIGGRAPH Asia, SA '18 Posters, December 04-07, 2018, Tokyo, Japan ACM 978-1-4503-6063-0/18/12. doi: 10.1145/3283289.3283292. Available online.
+1. Vallance, M., Magaki, T. & Sasaki, T. (2018). Inter-cognitive communication for immersive virtual education: four robot solutions. In Proceedings of EdMedia: World Conference on Educational Media and Technology (pp. 1591-1597). Amsterdam, Netherlands: Association for the Advancement of Computing in Education (AACE). Retrieved July 12, 2018 from [https://academicexperts.org/conf/edmedia/2018/papers/53178/](https://academicexperts.org/conf/edmedia/2018/papers/53178/)
+1. Vallance, M., Kurashige, Y., Sasaki, T. & Magaki, T. (2017). Development of a Synthetic Learning Environment in the Antidisciplinary Space. In Proceedings of The 11th European Conference on Game-Based Learning ECGBL 2017, The FH JOANNEUM University of Applied Science, Graz, Austria, 4 - 6 October, 2017. pp. 705 - 714.  ISBN: 978-1-911218-57-9
+1. Sasaki, T., Vallance, M., Magaki, T., Naito, N., Sumi, K., Bagenda Kasujja, D. and Tsubakimoto, M. (2017).  Japanese History Explorer With Nozomi-chan for Elementary School Children. In Proceedings of The 11th European Conference on Game-Based Learning ECGBL 2017, The FH JOANNEUM University of Applied Science, Graz, Austria, 4 - 6 October, 2017. pp. 562 - 570. ISBN: 978-1-911218-57-9
+1. Vallance, M., Kurashige, Y., Sasaki, T. & Magaki, T. (2017). Who needs experts? Students designing a Synthetic Learning Environment of the Fukushima nuclear power plant. In J. Johnston (Ed.), Proceedings of EdMedia 2017 (pp. 1223-1228). Washington, DC: Association for the Advancement of Computing in Education (AACE). Retrieved August 16, 2017 from [https://www.learntechlib.org/p/178440/](https://www.learntechlib.org/p/178440/)
