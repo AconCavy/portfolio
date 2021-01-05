@@ -55,13 +55,13 @@ It is blogged [here](https://aconcavy.github.io/Blog/posts/20201129dotnettemplat
 
 The project is testing and benchmarking an experimental C# functions as a sandbox.
 
-### [SnippetBuilderCSharp](https://github.com/AconCavy/SnippetBuilderCSharp) (2020)
+### [SnippetBuilder](https://github.com/AconCavy/SnippetBuilder) (2020)
 
-The application is building editor's snippets from C# files for competitive programming library etc.
+The application is building editor's snippets files for competitive programming library etc.
 
-### [AtCoderLibraryCSharp](https://github.com/AconCavy/AtCoderLibraryCSharp) (2020)
+### [AlgorithmSharp](https://github.com/AconCavy/AlgorithmSharp) (2020)
 
-The library is an UNOFFICIAL AtCoderLibrary for C#. The library is based on ac-library and written by C#.
+The library is an algorithm library for competitive programming contests. It is based on [ac-library](https://github.com/atcoder/ac-library) written by C#, which some additional classes. 
 
 ### [E4Analyzer](https://github.com/AconCavy/E4Analyzer) (2020)
 
