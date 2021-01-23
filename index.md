@@ -41,10 +41,14 @@ Please contact me via a direct message on Twitter if you are interested.
 ## Skills
 
 - Programming Languages: C#, Python 3.x
-- Frameworkss: Unity, Xamarin.Forms, ASP .NET Core WebApi
-- Others: git, GitHub Action
+- Frameworks: Unity, Xamarin.Forms, ASP .NET Core WebApi
+- Others: git, GitHub Actions
 
 ## Works
+
+### [Mulinq](https://github.com/AconCavy/Mulinq) (2021)
+
+The library is C# LINQ extensions for collections and multidimensional arrays. A package of the library is published on [NuGet](https://www.nuget.org/packages/Mulinq). A unit testing, linting, and release of the package that have been managed by GitHub Actions in the repository of the library.
 
 ### [CompetitiveProgrammingTemplateCSharp](https://github.com/AconCavy/CompetitiveProgrammingTemplateCSharp) (2020)
 
