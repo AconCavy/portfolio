@@ -55,10 +55,6 @@ The library is C# LINQ extensions for collections and multidimensional arrays. A
 The template is dotnet cli template for competitive programming using C#. The template will provide a tasks and tests projects, a solver class item, and a test class item.
 It is blogged [here](https://aconcavy.github.io/Blog/posts/20201129dotnettemplate). (Japanese)
 
-### [SandboxCSharp](https://github.com/AconCavy/SandboxCSharp) (2020-)
-
-The project is testing and benchmarking an experimental C# functions as a sandbox.
-
 ### [SnippetBuilder](https://github.com/AconCavy/SnippetBuilder) (2020)
 
 The application is building editor's snippets files for competitive programming library etc.
