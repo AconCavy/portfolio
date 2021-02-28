@@ -59,7 +59,7 @@ It is blogged [here](https://aconcavy.github.io/Blog/posts/20201129dotnettemplat
 
 The application is building editor's snippets files for competitive programming library etc.
 
-### [AlgorithmSharp](https://github.com/AconCavy/AlgorithmSharp) (2020)
+### [algorithm-csharp](https://github.com/AconCavy/algorithm-csharp) (2020)
 
 The library is an algorithm library for competitive programming contests. It is based on [ac-library](https://github.com/atcoder/ac-library) written by C#, which some additional classes. 
 
