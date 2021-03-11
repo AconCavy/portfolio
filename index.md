@@ -11,7 +11,7 @@ title: AconCavy's Portfolio
 - Twitter: [@AconCavy](https://twitter.com/AconCavy)
 - GitHub: [AconCavy](https://github.com/AconCavy)
 - [![AconCavy](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FAconCavy)](https://atcoder.jp/users/AconCavy)
-- Blog: [acon.log](https://aconcavy.github.io/Blog/)
+- Blog: [acon.log](https://aconcavy.github.io/blog/)
 - Interest: VR/AR/xR, Game Development
 - Language: Japanese, English
 
