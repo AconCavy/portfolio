@@ -11,9 +11,9 @@ title: AconCavy's Portfolio
 - Twitter: [@AconCavy](https://twitter.com/AconCavy)
 - GitHub: [AconCavy](https://github.com/AconCavy)
 - [![AconCavy](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FAconCavy)](https://atcoder.jp/users/AconCavy)
-- Blog: [acon.log](https://aconcavy.github.io/Blog/)
-- Interests: VR/AR/xR, Game Development
-- Languages: Japanese, English
+- Blog: [acon.log](https://aconcavy.github.io/blog/)
+- Interest: VR/AR/xR, Game Development
+- Language: Japanese, English
 
 I am good at developing games and simulators mainly using C# and Unity as an IT engineer.
 And, as a researcher, I had been researched that forecasting cybersickness (aka Virtual Reality sickness) using physiological data in Virtual Reality in Future University Hakodate, Japan.
