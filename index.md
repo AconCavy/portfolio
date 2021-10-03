@@ -12,8 +12,8 @@ title: AconCavy's Portfolio
 - GitHub: [AconCavy](https://github.com/AconCavy)
 - [![AconCavy](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FAconCavy)](https://atcoder.jp/users/AconCavy)
 - Blog: [acon.log](https://aconcavy.github.io/Blog/)
-- Interest: VR/AR/xR, Game Development
-- Language: Japanese, English
+- Interests: VR/AR/xR, Game Development
+- Languages: Japanese, English
 
 I am good at developing games and simulators mainly using C# and Unity as an IT engineer.
 And, as a researcher, I had been researched that forecasting cybersickness (aka Virtual Reality sickness) using physiological data in Virtual Reality in Future University Hakodate, Japan.
@@ -40,12 +40,15 @@ Please contact me via a direct message on Twitter if you are interested.
 
 ## Skills
 
-- Programming Languages: C#, Python 3.x
-- Frameworks: Unity, Xamarin.Forms, ASP .NET Core WebApi
-- Others: git, GitHub Actions
+- Programming Languages: C#, Python 3, Swift, Rust, C++, Kotlin, JavaScript 
+- Frameworks: .NET, Unity, ASP .NET Core WebApi, Xamarin.Forms
+- Others: git, GitHub Actions, Docker
 
 ## Works
 
+### [devcontainer-latex](https://github.com/AconCavy/devcontainer-latex) (2021)
+
+The repository is a template repository of latex workspace to work on the vscode devcontainer.
 ### [Mulinq](https://github.com/AconCavy/Mulinq) (2021)
 
 The library is C# LINQ extensions for collections and multidimensional arrays. A package of the library is published on [NuGet](https://www.nuget.org/packages/Mulinq). A unit testing, linting, and release of the package that have been managed by GitHub Actions in the repository of the library.
@@ -55,7 +58,7 @@ The library is C# LINQ extensions for collections and multidimensional arrays. A
 The template is dotnet cli template for competitive programming using C#. The template will provide a tasks and tests projects, a solver class item, and a test class item.
 It is blogged [here](https://aconcavy.github.io/Blog/posts/20201129dotnettemplate). (Japanese)
 
-### [SandboxCSharp](https://github.com/AconCavy/SandboxCSharp) (2020-)
+### [sandbox-csharp](https://github.com/AconCavy/sandbox-csharp) (2020-)
 
 The project is testing and benchmarking an experimental C# functions as a sandbox.
 
@@ -63,13 +66,9 @@ The project is testing and benchmarking an experimental C# functions as a sandbo
 
 The application is building editor's snippets files for competitive programming library etc.
 
-### [AlgorithmSharp](https://github.com/AconCavy/AlgorithmSharp) (2020)
+### [algorithm-csharp](https://github.com/AconCavy/algorithm-csharp) (2020)
 
 The library is an algorithm library for competitive programming contests. It is based on [ac-library](https://github.com/atcoder/ac-library) written by C#, which some additional classes. 
-
-### [E4Analyzer](https://github.com/AconCavy/E4Analyzer) (2020)
-
-The application is statistical processing csv files obtained from [Empatica E4](https://www.empatica.com/research/e4/). 
 
 ### [Forty Five](https://globalgamejam.org/2020/games/ffxlv-1) (2020)
 
