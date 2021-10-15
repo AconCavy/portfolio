@@ -1,0 +1,107 @@
+body {
+  color: #e6e6e6;
+  background-image: url(../images/bg.webp);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100%;
+}
+
+a {
+  color: #82AAFF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #80CBC4;
+}
+
+.mask {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100vw;
+  height: 100vh;
+  overflow-y: scroll;
+  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+}
+
+.navbar-bg {
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+.nav-item {
+  font-size: large;
+}
+
+.icon-twitter {
+  color: rgb(29, 161, 242);
+}
+
+.icon-github {
+  color: #e6e6e6;
+}
+
+.comment {
+  overflow-wrap: break-word;
+}
+
+.portfolio {
+  background-color: #212121;
+}
+
+.card {
+  background-color: #1A1A1A;
+  border-color: #404040;
+}
+
+.card .card-header {
+  background-color: #1A1A1A;
+  border-color: #404040;
+  text-transform: uppercase;
+}
+
+.card .card-body table {
+  background-color: #1A1A1A;
+  color: #e6e6e6;
+}
+
+.card .card-body ul li {
+  background-color: #1A1A1A;
+  color: #e6e6e6;
+}
+
+.btn:hover, .btn:focus, .btn:active {
+  background-color: #80CBC4 !important;
+  color: #1A1A1A !important;
+  border-color: #404040 !important;
+}
+
+.btn:focus {
+  box-shadow: 0 0 0 0.2rem darken(#80CBC4, 30%) !important;
+}
+
+.btn-primary {
+  background-color: #82AAFF;
+  color: #1A1A1A;
+  border-color: #404040;
+}
+
+.dropdown-menu {
+  background-color: #212121;
+  color: #82AAFF;
+}
+
+.dropdown-menu :not(.active) {
+  color: #82AAFF;
+}
+
+.dropdown-menu .active {
+  background-color: #80CBC4;
+  color: #1A1A1A;
+}
+
+.dropdown-item:hover, .dropdown-item:focus, .dropdown-item:active{
+  background-color: #80CBC4;
+  color: #1A1A1A;
+}
