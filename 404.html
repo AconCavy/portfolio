@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>404</title>
+
+  <script type="text/javascript">
+    const l = window.location;
+    if (l.pathname.startsWith('blog')) {
+      l.replace(
+        l.protocol +
+        '//' +
+        'https://aconcavy.github.io/' +
+        l.pathname
+      );
+      window.location = l;
+    }
+  </script>
+</head>
+
+</html>
