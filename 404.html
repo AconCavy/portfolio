@@ -8,8 +8,10 @@
 
   <script type="text/javascript">
     const l = window.location;
-    if (l.pathname.startsWith('/blog/')) {
+    if (l.pathname.startsWith('/blog')) {
       window.location.assign(`https://aconcavy.github.io${l.pathname}`);
+    }else {
+      window.location.assign(`https://aconcavy.github.io/portfolio`);
     }
   </script>
 </head>
