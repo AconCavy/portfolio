@@ -1,0 +1,7 @@
+﻿Title: SnippetBuilder
+Published: 10/27/2020
+Link: https://github.com/AconCavy/SnippetBuilder
+LangEn: |-
+  SnippetBuilder is building editor's snippets files for competitive programming library etc.
+LangJa: |-
+  SnippetBuilderは、競技プログラミング用のファイル内容をVisual Studio Codeのスニペットファイルとして生成するCLIアプリケーションです。

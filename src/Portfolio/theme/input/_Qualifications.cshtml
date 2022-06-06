@@ -1,0 +1,21 @@
+@{
+    var model = Outputs.Get($"{Context.GetString("ProfileSources")}qualifications.yml");
+    var suffix = Document.GetLink().Contains("/ja/") ? "Ja" : "En";
+    var fe = model.GetString($"FE{suffix}");
+    var ap = model.GetString($"AP{suffix}");
+}
+
+
+<div class="card c-card m-3 shadow-sm">
+    <div class="card-header c-card__header">QUALIFICATIONS</div>
+    <div class="card-body c-card__body">
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">
+                @fe
+            </li>
+            <li class="list-group-item">
+                @ap
+            </li>
+        </ul>
+    </div>
+</div>

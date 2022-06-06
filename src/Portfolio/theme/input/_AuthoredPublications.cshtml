@@ -1,0 +1,14 @@
+<div class="card c-card m-3 shadow-sm">
+    <div class="card-header c-card__header">AUTHORED PUBLICATIONS</div>
+    <div class="card-body c-card__body">
+        <ul class="list-group list-group-flush">
+            @foreach (var publication in Outputs
+                .FromPipeline("Data")
+                .FilterSources(Document.GetList<string>("PublicationSources"))
+                .OrderByDescending(x => x.GetDateTime(WebKeys.Published)))
+            {
+                @await Html.PartialAsync("_PublicationItem.cshtml", publication)
+            }
+        </ul>
+    </div>
+</div>

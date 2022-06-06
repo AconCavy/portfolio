@@ -1,0 +1,25 @@
+.c-dropdown {
+  &__menu {
+    background-color: $c-base;
+    color: $c-blue;
+
+    :not(.active) {
+      background-color: $c-base;
+      color: $c-blue;
+    }
+
+    .active {
+      background-color: $c-accent;
+      color: $c-base;
+    }
+  }
+  
+  &__item {
+    &:hover,
+    &:focus,
+    &:active {
+      background-color: $c-accent;
+      color: $c-base;
+    }
+  }
+}

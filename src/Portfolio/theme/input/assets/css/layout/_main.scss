@@ -1,0 +1,8 @@
+.l-wrapper {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100vw;
+  height: 100vh;
+  overflow-y: scroll;
+  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+}

@@ -1,0 +1,9 @@
+Title: Phog
+Published: 08/11/2021
+Link: https://github.com/AconCavy/phog
+LangEn: |-
+  Phog is a GUI app for macOS to generate photogrammetry 3D models using RealityKit Object Capture.
+  The app work on macOS 12+ that can generate a 3D model from pictures with an input/output directory and some options.
+LangJa: |-
+  Phogは、macOSのRealityKitのObject Capture機能を使ってフォトグラメトリの3Dモデルを生成するGUIアプリケーションです。
+  macOS 12以降で動作し、入出力ディレクトリといくつかのオプションを指定するだけで、写真から3Dモデルを生成することができます。

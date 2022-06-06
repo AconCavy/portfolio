@@ -1,4 +1,4 @@
-#InputPaths: ../../input
+InputPaths: ../../input
 Host: www.aconcavy.dev
 LinksUseHttps: true
 LinkLowercase: true
@@ -7,7 +7,7 @@ DateTimeInputCulture: ja-JP
 DateTimeDisplayCulture: ja-JP
 MirrorResources: true
 
-#GitHubOwner: AconCavy
-#GitHubName: portfolio
-#GitHubToken: => Config.FromSetting<string>("GITHUB_TOKEN")
-#GitHubBranch: gh-pages
+GitHubOwner: AconCavy
+GitHubName: portfolio
+GitHubToken: => Config.FromSetting<string>("GITHUB_TOKEN")
+GitHubBranch: gh-pages

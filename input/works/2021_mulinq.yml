@@ -1,0 +1,10 @@
+﻿Title: Mulinq
+Published: 01/20/2021
+Link: https://github.com/AconCavy/Mulinq
+LangEn: |-
+  Mulinq is C# LINQ extensions for collections and multidimensional arrays.
+  A package of the library is published on <a href="https://www.nuget.org/packages/Mulinq">NuGet</a>.
+  A unit testing, linting, and release of the package that have been managed by GitHub Actions in the repository of the library.
+LangJa: |-
+  Mulinqは、C#のLINQ拡張メソッドと多次元配列をLINQのように使うことができる拡張ライブラリです。
+  GitHub Actionsを使って自動的にユニットテストを行い、パッケージは <a href="https://www.nuget.org/packages/Mulinq">NuGet</a> でリリースされています。

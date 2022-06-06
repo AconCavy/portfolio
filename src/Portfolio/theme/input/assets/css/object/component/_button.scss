@@ -1,0 +1,16 @@
+.c-button {
+  
+  &--primary {
+    background-color: $c-blue;
+    color: $c-base;
+    border-color: $c-gray;
+  }
+  
+  &:hover, 
+  &:focus, 
+  &:active {
+    background-color: $c-accent;
+    color: $c-base;
+    border-color: $c-gray;
+  }
+}

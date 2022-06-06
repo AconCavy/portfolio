@@ -1,0 +1,9 @@
+﻿Title: Maze
+Published: 03/01/2016
+Link: https://drive.google.com/open?id=1HH_vSyQ0sm7LaLvFQvblk19Id4YGv6DP
+LangEn: |-
+  Maze is a game that is the first work to be made by Unity that navigates a ball to the goal using an acceleration sensor and the maze is auto-generated.
+LangJa: |-
+  Mazeは、Android向けに開発した迷路ゲームです。
+  Unityで作成した初めての作品で、加速度センサを用いて端末を傾けてボールを操作します。
+  迷路は自動生成されます。

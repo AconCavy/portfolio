@@ -1,0 +1,23 @@
+.c-card {
+  background-color: $c-base;
+  border-color: $c-gray;
+  color: $c-primary;
+
+  &__header {
+    text-transform: uppercase;
+    border-color: $c-gray;
+  }
+  
+  &__body {
+    color: $c-primary;
+    border-color: $c-gray;
+
+    table,
+    ul,
+    li {
+      background-color: $c-base;
+      color: $c-primary;
+      border-color: $c-gray;
+    }
+  }
+}

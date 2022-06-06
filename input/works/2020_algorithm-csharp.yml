@@ -1,0 +1,9 @@
+﻿Title: algorithm-csharp
+Published: 09/07/2020
+Link: https://github.com/AconCavy/algorithm-csharp
+LangEn: |-
+  algorithm-csharp is an algorithm library for competitive programming contests.
+  It is based on <a href="https://github.com/atcoder/ac-library">ac-library</a> written by C#, which some additional classes.
+LangJa: |-
+  algorithm-csharpは、競技プログラミング用のC#アルゴリズムライブラリです。
+  <a href="https://github.com/atcoder/ac-library">ac-library</a> をベースに作成し、いくつかのクラスを追加しています。

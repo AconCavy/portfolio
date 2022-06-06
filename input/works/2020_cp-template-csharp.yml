@@ -1,0 +1,11 @@
+﻿Title: cp-template-csharp
+Published: 11/29/2020
+Link: https://github.com/AconCavy/cp-template-csharp
+LangEn: |-
+  cp-template-csharp is dotnet cli template for competitive programming using C#.
+  The template will provide tasks and tests projects, a solver class item, and a test class item.
+  It is blogged <a href="https://aconcavy.github.io/blog/posts/20201129dotnettemplate">here</a> (Japanese).
+LangJa: |-
+  cp-template-csharp#で行うための、dotnet CLIのテンプレートです。
+  テンプレートはタスクとテストのプロジェクトの作成、ソルバクラスの作成、テストクラスの作成を行うことができます。
+  <a href="https://aconcavy.github.io/blog/posts/20201129dotnettemplate">ブログ</a> で記事を書いています。

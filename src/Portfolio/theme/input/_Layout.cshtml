@@ -5,16 +5,26 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Security-Policy"
-          content="default-src 'self'; img-src 'self' data:;">
+          content="default-src 'self'; img-src 'self' data:; font-src 'self'; style-src 'self';">
+
+    <link rel="icon" href="@Context.GetLink("/assets/images/favicon.svg")" type="text/svg+xml">
+    <link rel="stylesheet" href=@Context.GetLink("assets/css/style.css") type="text/css">
 
     <title>Portfolio</title>
 </head>
 
 <body>
 
-<main>
-    @RenderBody()
-</main>
+<div class="l-wrapper">
+    @await Html.PartialAsync("_Nav.cshtml")
+
+    <main>
+        @RenderBody()
+    </main>
+</div>
+
+
+@await Html.PartialAsync("_Scripts.cshtml")
 
 </body>
 
