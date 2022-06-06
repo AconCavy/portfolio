@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Statiq.App;
+using Statiq.Web;
+
+
+await Bootstrapper.Factory
+    .CreateWeb(args)
+    .RunAsync();
