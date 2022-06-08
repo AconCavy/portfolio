@@ -6,7 +6,7 @@
     var content = Model.GetString(isJapanese ? "LangJa" : "LangEn");
     var image = Model.GetString("Image");
     var imageLink = string.IsNullOrEmpty(image) ? string.Empty : Context.GetLink($"assets/images/{image}");
-    var imageAlt = Model.GetString("ImageAlt");
+    var imageAlt = Model.GetString(isJapanese ? "ImageAltJa" : "ImageAltEn");
 }
 
 <div class="col-md">
