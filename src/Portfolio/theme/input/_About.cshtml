@@ -12,7 +12,7 @@
             <tbody>
             <tr>
                 <th>Name</th>
-                <td>@name</td>
+                <td>@Html.Raw(name)</td>
             </tr>
             <tr>
                 <th>Twitter</th>
@@ -33,7 +33,7 @@
             </tbody>
         </table>
         <p class="card-text">
-            @comment
+            @Html.Raw(comment)
         </p>
     </div>
 </div>
