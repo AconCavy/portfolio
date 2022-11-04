@@ -1,0 +1,9 @@
+﻿Title: devcontainer-texlive
+Published: 07/31/2021
+Link: https://github.com/AconCavy/devcontainer-texlive
+LangEn: |-
+  devcontainer-texlive is a template repository of latex workspace to work on the vscode devcontainer.
+  The template constructs the environment of LuaLaTeX, XeLaTex, and upLaTeX that is able to work on the Docker container.
+LangJa: |-
+  devcontainer-texliveは、Visual Studio Codeのdevcontainerを使ったLaTeXのワークスペーステンプレートリポジトリです。
+  Dockerコンテナ上でLuaLaTeX、XeLaTeX、upLaTeXのLaTeX環境を構築し、作業することができます。
