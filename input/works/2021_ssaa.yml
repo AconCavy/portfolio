@@ -1,0 +1,10 @@
+Title: SSAA
+Published: 12/04/2021
+LangEn: |-
+  SSAA (Situation Specific Arousal Analyzer) is an application for calculating statistical information by specifying an interval from time-series data obtained by a wristband-type biosensor named Empatica E4.
+  Data are processed in Python, and the GUI is built in Electron.
+  This application was developed upon request.
+LangJa: |-
+  SSAA(Situation Specific Arousal Analyzer)は、Empatica E4というリストバンド型の生体センサが取得した時系列データから区間を指定して統計情報を取得するためのアプリケーションです。
+  データ処理をPythonで行い、GUIをElectronで構築しています。
+  このアプリケーションは、依頼を受けて開発したものになります。
